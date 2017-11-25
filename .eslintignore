@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+src/mock/*
+src/assets/exif.js
+src/assets/exif.exec.js
